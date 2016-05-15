@@ -1,4 +1,4 @@
-# Redactor Adlignment plugin for Craft
+# Redactor Alignment plugin for Craft
 
 Adds Redactor’s “Alignment” [plugin](https://imperavi.com/redactor/plugins/alignment/) to Rich Text fields in Craft, which lets you add alignment to text.
 
